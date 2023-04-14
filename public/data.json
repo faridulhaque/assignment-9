@@ -1,0 +1,44 @@
+[
+    {
+      "id": "624a0528b8b29cbf95ae38bb",
+      "img": "https://i.ibb.co/KK7YfWZ/man1.jpg",
+      "name": "Weaver Sutton",
+      "review": 5,
+      "comment": "The is the best book store I have ever seen. They allow you to read books and borrow from them as well"
+    },
+    {
+      "id": "624a05282092473f3f8e6243",
+      "img": "https://i.ibb.co/y4sdMK5/wman.jpg",
+      "name": "Stephanie Saunders",
+      "review": 5,
+      "comment": "I was helpless about my kid playing video games all the day. Once I brought him here and this magical place changed him!"
+    },
+    {
+      "id": "624a0528fde3c42d29f8fc5e",
+      "img": "https://i.ibb.co/gPmQCzB/man2.jpg",
+      "name": "Holman Waller",
+      "review": 4,
+      "comment": "Good place, quite costly though"
+    },
+    {
+      "id": "624a05285393e2bb71fa293b",
+      "img": "https://i.ibb.co/zxrw8Cn/man3.jpg",
+      "name": "Wade Horne",
+      "review": 5,
+      "comment": "I recommended everyone to visit this place at least once. you will definitely love this"
+    },
+    {
+      "id": "624a05284b9611a350145664",
+      "img": "https://i.ibb.co/9WggCvg/man4.jpg",
+      "name": "Burks Greer",
+      "review": 5,
+      "comment": "This is the best place for book lovers. If you love books you will love it"
+    },
+    {
+      "id": "624a05283b13a3bf2afd983d",
+      "img": "https://i.ibb.co/6sqPnTR/man5.jpg",
+      "name": "Stein Morin",
+      "review": 5,
+      "comment": "wonderful Place! wonderful environment! I am literally in love with this garden!"
+    }
+  ]
